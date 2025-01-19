@@ -134,6 +134,9 @@ class MAIN {
         numberThree();
         System.out.println("Question 4: \n");
         numberFour();
+        System.out.println("Question 5: \n");
+        numberFive();
+
 
     }
     }
